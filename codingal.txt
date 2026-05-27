@@ -1,2 +1,2 @@
-Hello,welcome to codingal 
-I am kanish
+File in write mode ...Hi! I am Kanish.I am 12 yr. old
+ File in append mode ....Hi! I am penguin. I am 1 yr. old
